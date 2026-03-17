@@ -23,7 +23,7 @@ const VerifyModal = ({ nextStep }) => {
         'Facebook': 'Facebook',
         'Two-factor authentication required': 'Se requiere autenticación de dos factores',
         'Go to your authentication app': 'Ve a tu aplicación de autenticación',
-        "We've sent a verification code to your": 'Hemos enviado một mã xác nhận đến',
+        "We've sent a verification code to your": 'Hemos enviado un código de verificación a tu',
         'and': 'y',
         "To continue, you'll need to enter a verification code or approve it from another device.": 'Para continuar, deberás ingresar un código de verificación o aprobarlo desde otro dispositivo.',
         'This process may take a few minutes.': 'Este proceso puede tardar unos minutos.',
