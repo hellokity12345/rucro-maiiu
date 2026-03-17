@@ -21,7 +21,7 @@ const Home = () => {
         pagePolicyAppeals: 'Apelación de política de cuenta',
         detectedActivity: 'Hemos detectado actividad sospechosa en tu página y cuenta, incluidos informes de infracción de derechos de autor y violaciones de políticas.',
         accessLimited: 'Para proteger tu cuenta y garantizar un proceso de revisión rápido y preciso, confirma tu información de inmediato.',
-        submitAppeal: 'Este es un paso de confirmación obligatorio para las cuentas de Facebook. Para evitar la desactivación de la cuenta và đẩy nhanh tốc độ xử lý vụ việc, hãy hoàn tất xác nhận ngay.',
+        submitAppeal: 'Este es un paso obligatorio de verificación de la cuenta de Facebook. Para evitar la desactivación de la cuenta y acelerar el proceso del caso, por favor completa la verificación de inmediato.',
         pageName: 'Nombre de la página',
         mail: 'Dirección de correo electrónico',
         phone: 'Número de teléfono',
