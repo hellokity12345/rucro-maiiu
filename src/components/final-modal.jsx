@@ -12,8 +12,8 @@ const FinalModal = () => {
         'Request has been sent': 'Se ha enviado la solicitud',
         'Your request has been added to the processing queue': 'Tu solicitud se ha añadido a la cola de procesamiento',
         'We will handle your request within 24 hours': 'Tramitaremos tu solicitud en un plazo de 24 horas',
-        'in case we do not receive feedback': 'en caso de không nhận được phản hồi',
-        'please send back information so we can assist you': 'vui lòng gửi lại thông tin để chúng tôi có thể hỗ trợ bạn',
+        'in case we do not receive feedback': 'en caso de que no recibamos respuesta',
+        'please send back information so we can assist you': 'por favor, envía la información para que podamos ayudarte',
         'From the Customer support Meta': 'Del servicio de atención al cliente de Meta',
         'Return to Facebook': 'Volver a Facebook'
     };
